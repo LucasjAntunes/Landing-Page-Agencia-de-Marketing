@@ -34,5 +34,14 @@ main{
     display: flex;
     flex-direction: row;
     margin-top: 50px;
+}
 
+h2{
+    font-size: 56px;
+    line-height: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+span{
+    color: rgb(132, 14, 201);
 }
