@@ -21,6 +21,11 @@ header{
     line-height: 10px;
 }
 
+li{
+    display: inline-block;
+    margin: 20px;
+}
+
 h1{
     font-weight: 200;
 }
